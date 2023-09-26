@@ -21,6 +21,6 @@ In total this resulted in a heatmap indicating the risk for the different areas 
 
 Due to time constraints a validation of the model was not possible, since it would demand in depth cooperation with the Grünflächenamt for real world data on tree health, or additional data gathering. From one location, that we managed to sample it became apparent that further adapting the model would be advised, for example to additionally account for tree age or a weighing of parameters.
 
-As a further project a statistical analyses of the parameters, to identify the ones with the biggest impact, could provide additional insights, which can be used to refine the model.
+As a further project a statistical analyses of the parameters, to identify the ones with the biggest impact, could provide additional insights, which could be used to refine the model.
 
 This work is property of Jannik Hildebrand, Oliver Kurz and Nicola Rudow, if you want to use it please ask for written permission to do so. 
