@@ -23,4 +23,4 @@ Due to time constraints a validation of the model was not possible, since it wou
 
 As a further project a statistical analyses of the parameters, to identify the ones with the biggest impact, could provide additional insights, which could be used to refine the model.
 
-This work is property of Jannik Hildebrand, Oliver Kurz and Nicola Rudow, if you want to use it please ask for written permission to do so. 
+This work was done by Jannik Hildebrand, Oliver Kurz and Nicola Rudow.
